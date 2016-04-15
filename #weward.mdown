@@ -1,0 +1,52 @@
+#weward
+
+weward is a win-win-win reward-based todo app.
+
+1. Win: you got shit done/form good habbits, stop bad habbits.
+1. Win: you ~supported a cause you believe in~ you enchriched someone's life (and save money on your taxes!!!.
+1. Win: you enriched your own life.
+
+Additionally, the positive re-enforcement of the win-win-win and the positive feelings of getting things done, while suppoting meaningful causes and saving for your future at the same time.
+
+##Features
+
+####Decide how much money you should save every year
+
+1. What is your name?
+1. How old are you?
+1. What is you email?
+1. What is your zip code?
+1. ~How much do you make? (alt:)~
+What is your income?  (prepopulate based upon zip)
+---Income---
+---Less than $20,000:---
+---$20,000 to $34,999:---
+---$35,000 to $49,999:---
+---$50,000 to $74,999:---
+---$75,000 to $99,999:---
+---$100,000 to $149,999:---
+---$150,000 to $199,999:---
+---$200,000 or more:---
+
+1. What percent of you income do you want to save?
+   <sup>Make this a stretch goal!</sup>
+*Slider* (5|--|15|--|25) 
+~1. By using weward you could retire at
+   50: $
+   60: $
+   65: $~
+
+####What cause or causes do you want to support?
+
+1. ~Search Box~
+1. ~Return causes to support or add new cause~
+
+
+###Change form new habbits
+
+1. List one habbit you want to change.
+  *Start saying shema
+  *Start checking email
+  *Stop doing something
+  ~then loop through list to ask frequency of each itme
+
